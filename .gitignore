@@ -1,0 +1,16 @@
+/node_modules
+/dist
+/log
+/test
+/prisma/migrations
+*.sql
+/.yarn/cache
+/.yarn/*.gz
+
+.env
+
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+yarn-error.log
+config.ts
